@@ -1,6 +1,6 @@
 <img align="center" alt="testing" width="950" src="https://thumbs.dreamstime.com/b/sqa-software-quality-assurance-practice-monitoring-software-engineering-processes-methods-used-project-acronym-sqa-267131000.jpg">
 <h1 align="center">Hi 👋, I'm Raja Haroon Jamal</h1>
-<h3 align="center">Experienced QA Automation Engineer with a demonstrated history of working in diverse industries including E-commerce, Health Care, Fintech, CRM, and Real Estate. Specialized in test automation using Cypress, Selenium (Python), and Appium. Bringing over 2 years of solid experience in ensuring the quality of both mobile and web applications.</h3>
+<h3 align="center">Experienced QA Automation Engineer with a demonstrated history of working in diverse industries including E-commerce, Health Care, Fintech, CRM, and Real Estate. Specialized in test automation using Cypress,Playwright (JavaScript / Python) , Selenium (Python), and Appium( Java). Bringing over 2 years of solid experience in ensuring the quality of both mobile and web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroondhanyal&label=Profile%20views&color=0e75b6&style=flat" alt="haroondhanyal" /> </p>
 
