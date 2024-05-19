@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haroondhanyal" alt="haroondhanyal" /></a> </p>
 
-- 🔭 I’m currently working on [RealtorsPk](https://realtorspk.com/)
+- 🔭 I’m currently working on [RealtorsPk](https://realtorspk.com/) as QA Automation Engineer
 
 - 🌱 I’m currently learning **Cucumber(BDD) , Playwright , Rest Assure(API)**
 
