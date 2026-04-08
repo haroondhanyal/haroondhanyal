@@ -175,7 +175,3 @@
   </a>
 </p>
 
----
-
-## 📈 Experience Summary
-](https://github.com/haroondhanyal)
