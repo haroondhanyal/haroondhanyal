@@ -120,10 +120,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroondhanyal&show_icons=true&locale=en&layout=compact" alt="haroondhanyal" />
-</p>
-
-<p align="center">
   <strong>🔗 Visit my GitHub Profile:</strong> <a href="https://github.com/haroondhanyal" target="_blank">https://github.com/haroondhanyal</a>
 </p>
 
