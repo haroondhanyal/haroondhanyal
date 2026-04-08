@@ -40,7 +40,7 @@
 
 ## 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/raja-haroon-jamal" target="blank">
+  <a href="https://www.linkedin.com/in/haroon-raja-b01210261" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja haroon jamal" height="30" width="40" />
   </a>
 </p>
@@ -119,8 +119,12 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroondhanyal&show_icons=true&locale=en&layout=compact" alt="haroondhanyal" />
+</p>
+
+<p align="center">
+  <strong>🔗 Visit my GitHub Profile:</strong> <a href="https://github.com/haroondhanyal" target="_blank">https://github.com/haroondhanyal</a>
 </p>
 
 ---
@@ -175,3 +179,4 @@
   </a>
 </p>
 
+---
