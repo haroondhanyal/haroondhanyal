@@ -7,7 +7,8 @@
 <p align="center">
   <img
     src="./github.png"
-    width="100%"
+    width="150%"
+    height="300"
     alt="Raja Haroon Jamal - Senior QA Automation Engineer"
   />
 </p>
