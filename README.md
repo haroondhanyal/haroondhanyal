@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Raja%20Haroon%20Jamal&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20QA%20Automation%20Engineer%20%7C%20SDET%20%7C%20Test%20Automation&descAlignY=55&descSize=18"
+    src="./assets/Github-image.png"
     width="100%"
     alt="Raja Haroon Jamal - Senior QA Automation Engineer"
   />
