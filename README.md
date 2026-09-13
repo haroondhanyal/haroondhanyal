@@ -69,7 +69,7 @@ I work across the complete QA lifecycle — from **requirements analysis and tes
 # 💼 Professional Experience
 
 <h2>
-  <img src="./ptcl.png" width="45" height="45" alt="PTCL Logo"
+  <img src="./ptcl.png" width="25" height="25" alt="PTCL Logo"
        style="vertical-align: middle;"/>
   PTCL — Sr. QA Automation Engineer
 </h2>
