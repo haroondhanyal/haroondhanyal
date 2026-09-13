@@ -160,9 +160,9 @@ Worked across **Fintech, Banking, Healthcare, EHR/EMR and Mobile applications**.
 
 ---
 
-<h2 style="font-size:40px;">
-  🏠 <img src="./realtors.jpg" width="45" height="45" alt="Realtors Logo"/> Realtors — SQA Automation Engineer
-</h2>
+Realtors — SQA Automation Engineer
+
+## <img src="./realtors.jpg" width="30" height="30" alt="Realtors Logo"/> Realtors — SQA Automation Engineer
 
 **October 2020 – June 2022 | Islamabad, Pakistan**
 
