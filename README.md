@@ -160,7 +160,6 @@ Worked across **Fintech, Banking, Healthcare, EHR/EMR and Mobile applications**.
 
 ---
 
-Realtors — SQA Automation Engineer
 
 ## <img src="./realtors.jpg" width="30" height="30" alt="Realtors Logo"/> Realtors — SQA Automation Engineer
 
