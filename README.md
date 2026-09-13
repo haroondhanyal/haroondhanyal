@@ -100,7 +100,7 @@ Working on enterprise **CRM, CBS, PCRM and Telecom applications**, with responsi
 
 ---
 
-## 🏥 SoftBuild — Sr. QA Automation Engineer
+## <img src="./softbuild.png" width="45" height="45" alt="SoftBuild Logo"/> SoftBuild — Sr. QA Automation Engineer
 
 **December 2025 – May 2026 | Remote | US Healthcare Projects**
 
@@ -125,7 +125,7 @@ Worked on US healthcare applications with a strong focus on **automation framewo
 
 ---
 
-## 💻 Insight Technologies — SQA Automation Engineer
+## <img src="./insightcorp_logo.jpg" width="45" height="45" alt="Insight Technologies Logo"/> Insight Technologies — SQA Automation Engineer
 
 **March 2022 – August 2023 | Rawalpindi, Pakistan**
 
@@ -152,7 +152,7 @@ Worked across **Fintech, Banking, Healthcare, EHR/EMR and Mobile applications**.
 
 ---
 
-## 🏠 Realtors — SQA Automation Engineer
+##  <img src="./realtors.jpg" width="45" height="45" alt="Realtors Logo"/> Realtors — SQA Automation Engineer
 
 **October 2020 – June 2022 | Islamabad, Pakistan**
 
