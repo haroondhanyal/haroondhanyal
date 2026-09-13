@@ -69,7 +69,7 @@ I work across the complete QA lifecycle — from **requirements analysis and tes
 # 💼 Professional Experience
 
 <h2>
-  <img src="./ptcl.png" width="25" height="25" alt="PTCL Logo"
+  <img src="./ptcl.png" width="30" height="30" alt="PTCL Logo"
        style="vertical-align: middle;"/>
   PTCL — Sr. QA Automation Engineer
 </h2>
@@ -108,7 +108,7 @@ Working on enterprise **CRM, CBS, PCRM and Telecom applications**, with responsi
 
 ---
 
-## <img src="./softbuild.png" width="45" height="45" alt="SoftBuild Logo"/> SoftBuild — Sr. QA Automation Engineer
+## <img src="./softbuild.png" width="30" height="30" alt="SoftBuild Logo"/> SoftBuild — Sr. QA Automation Engineer
 
 **December 2025 – May 2026 | Remote | US Healthcare Projects**
 
@@ -133,7 +133,7 @@ Worked on US healthcare applications with a strong focus on **automation framewo
 
 ---
 
-## <img src="./insightcorp_logo.jpg" width="45" height="45" alt="Insight Technologies Logo"/> Insight Technologies — SQA Automation Engineer
+## <img src="./insightcorp_logo.jpg" width="30" height="30" alt="Insight Technologies Logo"/> Insight Technologies — SQA Automation Engineer
 
 **March 2022 – August 2023 | Rawalpindi, Pakistan**
 
@@ -160,7 +160,7 @@ Worked across **Fintech, Banking, Healthcare, EHR/EMR and Mobile applications**.
 
 ---
 
-##  <img src="./realtors.jpg" width="45" height="45" alt="Realtors Logo"/> Realtors — SQA Automation Engineer
+##  <img src="./realtors.jpg" width="30" height="30" alt="Realtors Logo"/> Realtors — SQA Automation Engineer
 
 **October 2020 – June 2022 | Islamabad, Pakistan**
 
