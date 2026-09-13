@@ -68,7 +68,13 @@ I work across the complete QA lifecycle — from **requirements analysis and tes
 
 # 💼 Professional Experience
 
-## <img src="./ptcl.png" width="70" height="70" alt="PTCL Logo"/> <sub>PTCL — Sr. QA Automation Engineer</sub>
+<h2>
+  <img src="./ptcl.png" width="45" height="45" alt="PTCL Logo"
+       style="vertical-align: middle;"/>
+  PTCL — Sr. QA Automation Engineer
+</h2>
+
+<p><strong>September 2023 – Present | Islamabad, Pakistan</strong></p>
 
 **September 2023 – Present | Islamabad, Pakistan**
 
