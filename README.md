@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm Raja Haroon Jamal</h1>
 
 <h3 align="center">
-Full-Stack Developer | Senior QA Automation Engineer | Vue.js | NestJS | TypeScript | Playwright | API Engineering | CI/CD
+Senior QA Automation Engineer | Full-Stack Application Builder | Vue.js | NestJS | TypeScript | Playwright | API Testing | CI/CD
 </h3>
 
 <p align="center">
