@@ -1,376 +1,675 @@
-<!-- ========================= -->
+<!-- ====================================================== -->
 
-<!--        PROFILE BANNER     -->
+<!--                PROFESSIONAL PROFILE                    -->
 
-<!-- ========================= -->
+<!-- ====================================================== -->
 
 <p align="center">
   <img
     src="./github.png"
-    width="150%"
+    width="100%"
     height="300"
-    alt="Raja Haroon Jamal - Senior QA Automation Engineer"
+    alt="Raja Haroon Jamal - Software Engineer & Senior QA Automation Engineer"
   />
 </p>
 
 <h1 align="center">Hi 👋, I'm Raja Haroon Jamal</h1>
 
 <h3 align="center">
-Senior QA Automation Engineer | Test Automation | Playwright | API Testing | CI/CD | Telecom | Healthcare | AI Testing
+Full-Stack Developer | Senior QA Automation Engineer | Vue.js | NestJS | TypeScript | Playwright | API Engineering | CI/CD
 </h3>
 
 <p align="center">
-  <a href="https://github.com/haroondhanyal">
-    <img src="https://komarev.com/ghpvc/?username=haroondhanyal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/haroondhanyal?tab=followers">
-    <img src="https://img.shields.io/github/followers/haroondhanyal?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
+Building modern web applications, enterprise software, APIs and scalable test automation solutions.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haroon-raja-b01210261">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rajaharoon320@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+
+<a href="https://github.com/haroondhanyal">
+  <img src="https://komarev.com/ghpvc/?username=haroondhanyal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/haroondhanyal?tab=followers">
+  <img src="https://img.shields.io/github/followers/haroondhanyal?label=Followers&style=flat" alt="GitHub Followers"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/haroon-raja-b01210261">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:rajaharoon320@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<a href="https://github.com/haroondhanyal">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am a **Senior QA Automation Engineer** specializing in **Web, Mobile, API, Enterprise and End-to-End Test Automation** with strong experience across Telecom, Healthcare, Fintech, Banking, E-commerce and Real Estate domains.
+I am a **Full-Stack Application Developer and Senior QA Automation Engineer** with hands-on experience across **software development, quality engineering, enterprise applications, APIs, CI/CD and product delivery**.
 
-My core focus is building **scalable, maintainable and business-oriented automation solutions** that improve regression coverage, release confidence and overall product quality.
+I build modern **web applications and business software** using:
 
-I work across the complete QA lifecycle — from **requirements analysis and test planning to automation, API validation, performance testing, UAT, release validation and production verification**.
+`Vue.js` • `NestJS` • `Node.js` • `TypeScript` • `JavaScript` • `REST APIs`
 
-### What I specialize in
+Alongside software development, I have strong professional experience designing and maintaining scalable automation solutions using:
 
-* 🚀 UI & End-to-End Test Automation
-* 🎭 Playwright Automation with JavaScript / TypeScript
-* 🧪 Cypress Automation
-* 🔧 Selenium WebDriver
-* 📱 Mobile Automation with Appium
-* 🔌 REST API Testing & Automation
-* ⚡ Performance & Load Testing with JMeter
-* 🤖 AI / LLM Application Testing
-* 🔄 CI/CD Test Automation
-* 🏗️ Page Object Model & Data-Driven Frameworks
-* 🥒 BDD / Gherkin / Cucumber
-* 📊 Test Reporting & Quality Metrics
-* 🏢 Enterprise CRM & Billing System Testing
-* 🔍 UAT, Regression & Production Validation
+`Playwright` • `Cypress` • `Selenium` • `Appium` • `Postman` • `JMeter`
+
+My engineering background covers enterprise systems across:
+
+**Telecom • Healthcare • Fintech • Banking • E-commerce • Real Estate • CRM • Billing Systems**
+
+I enjoy working across the complete software lifecycle:
+
+**Requirement → Product Workflow → Architecture → Development → API → Testing → Automation → CI/CD → Release**
+
+---
+
+# 🚀 What I Do
+
+### 💻 Full-Stack Development
+
+* Build modern full-stack web applications.
+* Develop responsive frontend applications using **Vue.js**.
+* Build scalable backend services using **NestJS**.
+* Develop RESTful APIs using **TypeScript and Node.js**.
+* Implement reusable frontend components.
+* Implement modular backend architecture.
+* Develop CRUD-based business applications.
+* Integrate frontend applications with backend APIs.
+* Implement authentication and authorization workflows.
+* Build dashboards and administration portals.
+* Develop enterprise-style business workflows.
+
+### 🧪 Quality Engineering
+
+* Build scalable automation frameworks.
+* Automate web applications using Playwright.
+* Perform API testing and automation.
+* Implement Page Object Model architecture.
+* Develop data-driven automation frameworks.
+* Automate regression and E2E scenarios.
+* Perform mobile automation.
+* Conduct performance and load testing.
+* Integrate automation into CI/CD pipelines.
+
+### 🏢 Enterprise Applications
+
+* CRM systems
+* Billing systems
+* Customer management platforms
+* Telecom applications
+* Healthcare systems
+* Financial applications
+* E-commerce platforms
+* Administrative dashboards
+* Business management systems
+
+---
+
+# 💻 Software Development
+
+## 🟢 Frontend Engineering
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" alt="Vue"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS"/>
+</p>
+
+### Technologies
+
+* Vue.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Component-Based Architecture
+* Responsive Web Design
+* REST API Integration
+* Form Validation
+* State & Data Management
+* Reusable UI Components
+* Dashboard Development
+
+### Development Areas
+
+* Business dashboards
+* Admin portals
+* Data-driven interfaces
+* Authentication interfaces
+* User management
+* Search and filtering
+* Forms and validation
+* Responsive application layouts
+* API-connected frontend applications
+
+---
+
+# 🔴 Backend Engineering
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" alt="NestJS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+</p>
+
+### Technologies
+
+* NestJS
+* Node.js
+* TypeScript
+* REST APIs
+* Modular Architecture
+* Controllers
+* Services
+* Modules
+* DTOs
+* Request Validation
+* Exception Handling
+* Authentication
+* Authorization
+* CRUD APIs
+* Business Logic
+
+### Backend Development
+
+* RESTful service development
+* API endpoint design
+* Business logic implementation
+* Modular backend architecture
+* Request / response handling
+* Input validation
+* Authentication workflows
+* Role-based access workflows
+* Error handling
+* Frontend / backend integration
+
+---
+
+# 🌐 Full-Stack Application Development
+
+My current development focus is building **complete applications**, not only isolated frontend pages or APIs.
+
+Typical architecture:
+
+```text
+                     ┌───────────────────────┐
+                     │       Vue.js UI       │
+                     │   Frontend / Client   │
+                     └───────────┬───────────┘
+                                 │
+                              REST API
+                                 │
+                     ┌───────────▼───────────┐
+                     │        NestJS         │
+                     │    Backend / API      │
+                     └───────────┬───────────┘
+                                 │
+                     ┌───────────▼───────────┐
+                     │    Business Logic     │
+                     │   Data / Services     │
+                     └───────────────────────┘
+```
+
+### Application Capabilities
+
+* Authentication
+* User Management
+* Role-Based Access
+* CRUD Operations
+* Dashboards
+* REST APIs
+* Search
+* Filtering
+* Form Validation
+* Data Management
+* Business Workflows
+* Responsive UI
+* Error Handling
+* API Integration
+* Modular Architecture
+
+---
+
+# 🚀 Development Projects
+
+I am actively building **production-style web applications and larger software projects** using modern JavaScript/TypeScript technologies.
+
+My development repositories demonstrate my progression from **Quality Engineering into complete Software Engineering**.
+
+---
+
+## 🌐 Vue.js Web Applications
+
+Building modern frontend applications using:
+
+`Vue.js` `TypeScript` `JavaScript` `HTML` `CSS`
+
+Development areas include:
+
+* Modern dashboards
+* Management portals
+* Responsive interfaces
+* Reusable components
+* Dynamic forms
+* Search and filtering
+* API integrations
+* Authentication screens
+* Business workflow interfaces
+* Data-driven UI
+
+---
+
+## ⚙️ NestJS Backend Applications
+
+Building structured backend applications using:
+
+`NestJS` `Node.js` `TypeScript` `REST API`
+
+Backend projects include concepts such as:
+
+* Controllers
+* Services
+* Modules
+* DTOs
+* REST endpoints
+* CRUD operations
+* Validation
+* Authentication
+* Authorization
+* Error handling
+* Business rules
+* Modular backend architecture
+
+---
+
+## 🔗 Vue.js + NestJS Full-Stack Applications
+
+Building applications where:
+
+```text
+Vue.js Frontend
+       ↓
+REST API
+       ↓
+NestJS Backend
+       ↓
+Application Services
+       ↓
+Business Data
+```
+
+The objective is to build complete software systems covering both **user experience and backend business logic**.
+
+---
+
+# 🧠 Engineering Approach
+
+I approach software engineering from multiple perspectives:
+
+```text
+Business Requirement
+        ↓
+Product Understanding
+        ↓
+Application Architecture
+        ↓
+Frontend Development
+        ↓
+Backend Development
+        ↓
+REST API Integration
+        ↓
+Functional Testing
+        ↓
+Automation
+        ↓
+CI/CD
+        ↓
+Release Validation
+```
+
+My Quality Engineering background allows me to develop applications while considering:
+
+* Testability
+* Reliability
+* Edge cases
+* Error handling
+* User workflows
+* API behavior
+* Regression risk
+* Production readiness
 
 ---
 
 # 💼 Professional Experience
 
 <h2>
-  <img src="./ptcl.png" width="30" height="30" alt="PTCL Logo"
-       style="vertical-align: middle;"/>
-  PTCL — Sr. QA Automation Engineer
+<img src="./ptcl.png" width="30" height="30" alt="PTCL Logo" style="vertical-align:middle;"/>
+PTCL — Sr. QA Automation Engineer
 </h2>
 
-<p><strong>September 2023 – Present | Islamabad, Pakistan</strong></p>
-
 **September 2023 – Present | Islamabad, Pakistan**
 
-**September 2023 – Present | Islamabad, Pakistan**
-
-Working on enterprise **CRM, CBS, PCRM and Telecom applications**, with responsibility across functional QA, automation, API validation, release quality and UAT.
+Working across enterprise **CRM, CBS, PCRM and Telecom applications**, with responsibilities spanning quality engineering, requirements, automation, APIs, UAT and release delivery.
 
 ### Key Responsibilities
 
-* Lead QA activities for enterprise **CRM, CBS (Converged Billing System), PCRM and Telecom applications**.
-* Collaborate with Product Owners, Business Analysts, Developers, Operations and business stakeholders throughout SDLC/STLC.
-* Lead **requirements gathering, impact analysis and clarification sessions** for RFCs, enhancements and change requests.
-* Prepare and review **test scenarios, test cases, acceptance criteria, test data and QA documentation**.
-* Perform Functional, Regression, Smoke, Sanity, Integration, System and End-to-End testing.
-* Validate complete **customer order management, service provisioning, billing, product and customer lifecycle workflows**.
-* Develop and maintain **Playwright automation using JavaScript/TypeScript**.
-* Build scalable automation frameworks using **Page Object Model (POM)** and **Data-Driven Testing (DDT)**.
-* Automate repetitive regression scenarios using **Cypress**.
-* Implement **BDD using Gherkin and Cucumber**.
-* Perform API testing using **Postman**, validating REST APIs, payloads, business rules and JSON schemas.
-* Execute **performance, load and stress testing using Apache JMeter**.
-* Integrate automation suites with **Jenkins CI/CD pipelines**.
-* Use **Testomat.io** for test management, execution tracking and reporting.
-* Perform defect triage, retesting and root-cause analysis.
-* Validate releases across **UAT, staging and production environments**.
-* Participate in Agile/Scrum ceremonies including sprint planning, refinement, reviews and retrospectives.
-* Support **UAT coordination, release planning, regression sign-off and production validation**.
-* Manage defects and QA activities using **JIRA**.
-* Serve as **Scrum Master when required**.
-* Continuously improve automation coverage, QA processes and testing efficiency.
+* Lead QA activities for enterprise CRM, CBS and PCRM applications.
+* Work with Product Owners, Developers, Operations and business stakeholders.
+* Perform requirements analysis for RFCs and enhancements.
+* Prepare test strategies, scenarios and test cases.
+* Validate customer order-management workflows.
+* Validate provisioning and billing workflows.
+* Build Playwright automation using JavaScript/TypeScript.
+* Implement Page Object Model architecture.
+* Develop Data-Driven automation.
+* Automate regression scenarios.
+* Implement BDD using Cucumber/Gherkin.
+* Perform REST API testing using Postman.
+* Validate API payloads and business rules.
+* Conduct performance testing using JMeter.
+* Integrate automation with Jenkins.
+* Perform UAT and production validation.
+* Manage defects through JIRA.
+* Participate in Agile/Scrum ceremonies.
+* Support release planning and regression sign-off.
+* Perform Scrum Master responsibilities when required.
 
 ---
 
-## <img src="./softbuild.png" width="30" height="30" alt="SoftBuild Logo"/> SoftBuild — Sr. QA Automation Engineer
+## <img src="./softbuild.png" width="30" height="30" alt="SoftBuild"/> SoftBuild — Sr. QA Automation Engineer
 
 **December 2025 – May 2026 | Remote | US Healthcare Projects**
 
-Worked on US healthcare applications with a strong focus on **automation framework development and end-to-end quality engineering**.
+Worked on US healthcare applications with a strong focus on automation architecture and end-to-end quality engineering.
 
 ### Key Responsibilities
 
-* Worked on critical **US healthcare and patient-related workflows**.
-* Designed and developed an **end-to-end automation framework from scratch using Playwright with JavaScript/TypeScript**.
-* Implemented **Page Object Model (POM)** for scalable and maintainable automation.
-* Automated UI, API, Smoke, Regression and End-to-End scenarios.
-* Created automation coverage for critical business and patient workflows.
-* Performed REST API testing and automation.
-* Validated endpoints, request/response payloads, schemas and integration logic.
-* Managed testing across Development, Staging, UAT and Production environments.
-* Managed environment-specific configurations and test data.
-* Configured **Bitbucket Pipelines CI/CD** for automated test execution.
-* Integrated **Allure Reports** for execution reporting and failure analysis.
-* Investigated automation failures and performed root-cause analysis.
-* Collaborated with developers, product stakeholders and healthcare-domain teams.
-* Improved regression efficiency and overall automation coverage.
+* Developed Playwright automation frameworks from scratch.
+* Used JavaScript and TypeScript.
+* Implemented Page Object Model.
+* Automated UI and API scenarios.
+* Automated Smoke, Regression and E2E workflows.
+* Tested healthcare and patient workflows.
+* Validated REST APIs.
+* Managed environment-specific configurations.
+* Configured Bitbucket Pipelines.
+* Integrated Allure Reports.
+* Investigated automation failures.
+* Performed root-cause analysis.
+* Collaborated with development and product teams.
 
 ---
 
-## <img src="./insightcorp_logo.jpg" width="30" height="30" alt="Insight Technologies Logo"/> Insight Technologies — SQA Automation Engineer
+## <img src="./insightcorp_logo.jpg" width="30" height="30" alt="Insight Technologies"/> Insight Technologies — SQA Automation Engineer
 
 **March 2022 – August 2023 | Rawalpindi, Pakistan**
 
 Worked across **Fintech, Banking, Healthcare, EHR/EMR and Mobile applications**.
 
-### Key Responsibilities
+### Responsibilities
 
-* Performed Functional, Regression, Smoke, Sanity, Integration, System and Exploratory Testing.
-* Tested web and mobile **banking and fintech applications**.
-* Developed automation using **Playwright and Cypress**.
-* Performed mobile automation using **Appium with Java**.
-* Worked with **XCUITest and Xcode** for iOS automation.
-* Designed reusable automation components using **Page Object Model**.
-* Identified high-value regression scenarios for automation.
-* Created test cases, scenarios, test data and execution documentation.
-* Performed API testing and backend integration validation.
-* Conducted performance testing using **Apache JMeter**.
-* Generated detailed execution reports using **Allure Report**.
-* Managed defects throughout the software development lifecycle.
-* Collaborated with developers and business stakeholders for defect resolution.
-* Used **Git/GitHub** for source control and team collaboration.
-* Performed cross-browser and cross-platform testing.
-* Participated in Agile/Scrum activities and QA process improvement.
+* Functional Testing
+* Regression Testing
+* Integration Testing
+* Playwright Automation
+* Cypress Automation
+* Appium Mobile Automation
+* API Testing
+* Performance Testing
+* JMeter
+* Allure Reporting
+* Git/GitHub
+* Cross-Browser Testing
+* Agile/Scrum
 
 ---
 
-
-## <img src="./realtors.jpg" width="30" height="30" alt="Realtors Logo"/> Realtors — SQA Automation Engineer
+## <img src="./realtors.jpg" width="30" height="30" alt="Realtors"/> Realtors — SQA Automation Engineer
 
 **October 2020 – June 2022 | Islamabad, Pakistan**
 
-Worked on **Real Estate, E-commerce, EMR/EHR and Fintech applications** for US and domestic clients.
+Worked across:
 
-### Key Responsibilities
+* Real Estate
+* E-commerce
+* Healthcare
+* Fintech
+* Web applications
 
-* Created test plans, scenarios, cases, test data and execution documentation.
-* Performed Functional, Smoke, Sanity, Regression, GUI, Integration and End-to-End testing.
-* Automated web application scenarios using **Playwright**.
-* Developed reusable automation components.
-* Performed cross-browser and compatibility testing.
-* Conducted performance testing using **JMeter**.
-* Tested critical Real Estate, E-commerce, Healthcare and Fintech workflows.
-* Identified and tracked functional, UI and interoperability defects.
-* Collaborated with developers to validate fixes.
-* Performed regression testing after releases and enhancements.
-* Supported **UAT and production validation**.
-* Assisted US clients with live application queries and issues.
-* Contributed to improved test coverage, stability and release quality.
+Responsibilities included functional testing, automation, API validation, performance testing, UAT and production validation.
 
 ---
 
-# 🚀 Featured Projects
+# 🏢 Enterprise & Product Projects
 
-## 🏢 PTCL — Telecom & Enterprise Systems
+## 📡 PTCL — Telecom Enterprise Systems
 
 ### 💳 CBS — Converged Billing System
 
-* Enterprise telecom billing and customer lifecycle workflows.
-* Functional, Regression and Integration Testing.
-* End-to-End business workflow validation.
-* API validation and business-rule verification.
-* Production and release validation.
+* Enterprise telecom billing
+* Customer lifecycle management
+* Business-rule validation
+* Integration testing
+* End-to-End testing
+* API validation
+* Release validation
 
 ### 🌐 CRM — Wireline Portal
 
-* Customer order management.
-* Service provisioning workflows.
-* End-to-End ordering journeys.
-* Playwright automation using JavaScript/TypeScript.
-* Page Object Model and Data-Driven Testing.
-* Functional, Regression, Integration and API Testing.
+* Customer order management
+* Service provisioning
+* Product workflows
+* End-to-End customer journeys
+* Playwright automation
+* API testing
+* Regression automation
+* Production validation
 
 ### 👥 One Window PCRM
 
-* Customer relationship workflows.
-* Operational process validation.
-* Functional and End-to-End testing.
-* Requirement analysis.
-* Test scenario preparation.
-* Defect management and release validation.
+* Customer relationship workflows
+* Operational workflows
+* Requirement analysis
+* Functional testing
+* End-to-End validation
+* Defect management
+* Release validation
 
 ---
 
-# 🏥 Healthcare Projects
+# 🏥 Healthcare Engineering
 
-### EHR / EMR Applications
+### EHR / EMR Systems
 
-* End-to-End healthcare workflow testing.
-* Patient-related workflow validation.
-* Playwright automation framework development.
-* UI & API automation.
-* Regression and Smoke automation.
-* POM-based framework architecture.
-* CI/CD integration.
-* Allure reporting.
-* UAT, Staging and Production validation.
+* Patient workflows
+* Healthcare business workflows
+* UI automation
+* API automation
+* Regression automation
+* POM architecture
+* CI/CD
+* Allure reporting
+* UAT validation
+* Production validation
 
-### AI / LLM Applications
+### 🤖 AI / LLM Applications
 
-* AI-powered application testing.
-* LLM response validation.
-* Prompt-based scenario testing.
-* Business response validation.
-* Functional and regression validation of AI workflows.
-* Collaboration with product and engineering teams.
+* AI application testing
+* LLM response validation
+* Prompt scenario testing
+* Business response validation
+* Regression testing of AI workflows
+* Product and engineering collaboration
 
 ---
 
 # 💳 Fintech & Banking
 
-* Web banking applications.
-* Mobile banking applications.
-* Trading and financial workflows.
-* API and integration testing.
-* Playwright & Cypress automation.
-* Appium mobile automation.
-* Performance testing using JMeter.
-* Cross-platform validation.
+Experience across:
+
+* Banking web applications
+* Banking mobile applications
+* Financial workflows
+* Trading workflows
+* REST APIs
+* Integration testing
+* Playwright
+* Cypress
+* Appium
+* JMeter
 
 ---
 
 # 🏠 Real Estate & E-commerce
 
-* Real Estate platforms.
-* Customer-facing E-commerce applications.
-* Critical business workflow validation.
-* Cross-browser testing.
-* Functional and regression automation.
-* Performance testing.
-* UAT and production validation.
+Experience across:
+
+* Real estate platforms
+* Customer-facing applications
+* E-commerce applications
+* Business workflow testing
+* Cross-browser validation
+* Regression automation
+* Performance testing
+* UAT
+* Production validation
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Complete Technical Stack
 
-## 🎭 Test Automation
+## 💻 Software Development
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=vue,nestjs,nodejs,typescript,javascript,html,css,python,java&perline=9"/>
 </p>
+
+* Vue.js
+* NestJS
+* Node.js
+* TypeScript
+* JavaScript
+* Python
+* Java
+* HTML5
+* CSS3
+
+---
+
+## 🎭 Test Automation
 
 * Playwright
 * Cypress
 * Selenium WebDriver
 * Appium
-* Web Automation
+* UI Automation
 * Mobile Automation
 * Cross-Browser Automation
 * End-to-End Automation
 * Regression Automation
 * Page Object Model
 * Data-Driven Testing
-* Reusable Framework Architecture
 
 ---
 
-## 🔌 API & Backend Testing
+# 🔌 APIs
 
-* Postman
+* REST API Development
 * REST API Testing
-* API Automation
+* Postman
 * REST Assured
 * Swagger / OpenAPI
-* Request / Response Validation
+* JSON
+* Request Validation
+* Response Validation
 * JSON Schema Validation
 * API Integration Testing
-* Backend Validation
 
 ---
 
-## 📱 Mobile Testing
+# 📱 Mobile Engineering & Testing
 
 * Appium
 * Java
-* Android Testing
-* iOS Testing
+* Android
+* iOS
 * XCUITest
 * Xcode
-* Mobile UI Automation
 * Cross-Platform Testing
 
 ---
 
-## ⚡ Performance Testing
+# ⚡ Performance Engineering
 
 * Apache JMeter
 * Load Testing
 * Stress Testing
 * Performance Testing
 * API Performance Testing
-* Response Time Analysis
+* Response-Time Analysis
 * Throughput Analysis
 
 ---
 
-## 🥒 BDD & Test Design
+# 🥒 BDD & Architecture
 
 * BDD
 * Gherkin
 * Cucumber
 * Page Object Model
 * Data-Driven Testing
+* Modular Architecture
+* Component-Based Architecture
+* Test Architecture
 * Test Scenario Design
-* Test Case Design
-* Test Data Preparation
-* Requirement Traceability
 
 ---
 
-## 🔄 CI/CD & DevOps
+# 🔄 DevOps & CI/CD
 
-* Jenkins
-* Bitbucket Pipelines
-* Azure DevOps
-* CI/CD Test Automation
-* Automated Regression Execution
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,jenkins,azure&perline=6"/>
+</p>
+
 * Git
 * GitHub
+* Bitbucket
+* Docker
+* Jenkins
+* Azure DevOps
+* Bitbucket Pipelines
+* CI/CD Automation
 * Environment Configuration
-* Staging / UAT / Production Testing
+* Automated Regression Execution
 
 ---
 
-## 📊 Test Management & Reporting
+# 📊 Test Management & Engineering Tools
 
 * JIRA
 * Testomat.io
 * Allure Report
 * Cypress Dashboard
-* Test Execution & Reporting
-* Defect Tracking
-* Defect Triage
-* Root Cause Analysis
-* Regression Sign-off
+* Swagger
+* Postman
+* GitHub
+* Bitbucket
+* Jenkins
 
 ---
 
@@ -385,7 +684,7 @@ Worked on **Real Estate, E-commerce, EMR/EHR and Fintech applications** for US a
 | Integration Testing   | ✅          |
 | System Testing        | ✅          |
 | End-to-End Testing    | ✅          |
-| UI / GUI Testing      | ✅          |
+| UI Testing            | ✅          |
 | API Testing           | ✅          |
 | Mobile Testing        | ✅          |
 | Cross-Browser Testing | ✅          |
@@ -401,15 +700,34 @@ Worked on **Real Estate, E-commerce, EMR/EHR and Fintech applications** for US a
 
 # 🏢 Domain Expertise
 
-`Telecom` • `CRM` • `Billing Systems` • `Healthcare` • `EHR` • `EMR` • `Fintech` • `Banking` • `E-commerce` • `Real Estate` • `Enterprise Applications`
+`Telecom`
+
+`CRM`
+
+`Billing Systems`
+
+`Healthcare`
+
+`EHR / EMR`
+
+`Fintech`
+
+`Banking`
+
+`E-commerce`
+
+`Real Estate`
+
+`Enterprise Applications`
 
 ---
 
-# 📚 QA & Agile
+# 📚 Software Engineering & Agile
 
 * SDLC
 * STLC
-* Agile / Scrum
+* Agile
+* Scrum
 * Sprint Planning
 * Daily Stand-ups
 * Backlog Refinement
@@ -424,16 +742,18 @@ Worked on **Real Estate, E-commerce, EMR/EHR and Fintech applications** for US a
 
 ---
 
-# 📄 QA Documentation
+# 📄 Engineering Documentation
 
+* Requirements
+* User Stories
+* Acceptance Criteria
 * Test Plans
 * Test Scenarios
 * Test Cases
 * Test Data
-* Acceptance Criteria
 * Defect Reports
-* Requirement Analysis
 * Requirement Traceability
+* API Documentation
 * Test Execution Reports
 * QA Process Documentation
 
@@ -441,18 +761,28 @@ Worked on **Real Estate, E-commerce, EMR/EHR and Fintech applications** for US a
 
 # 🏆 Key Achievements
 
-* 🚀 Built scalable **Playwright UI & API automation frameworks**.
-* 🏢 Led QA activities for enterprise **CRM, CBS and Telecom systems**.
-* 🏥 Delivered automation solutions for **US Healthcare applications**.
-* 🤖 Worked on **AI / LLM-powered application testing**.
-* 🔄 Integrated automated testing into **Jenkins and Bitbucket CI/CD pipelines**.
-* 📊 Implemented detailed **Allure-based automation reporting**.
-* ⚡ Reduced repetitive manual regression effort through automation.
-* 🧪 Improved regression coverage through risk-based automation.
-* 📱 Worked on Web, Android and iOS automation.
-* 👥 Supported UAT, release validation and production verification.
-* 🎯 Contributed to Agile/Scrum process improvement.
-* 🧑‍💼 Performed Scrum Master responsibilities when required.
+### 💻 Software Engineering
+
+* 🚀 Expanded engineering expertise into **Full-Stack Application Development**.
+* 🟢 Building modern frontend applications using **Vue.js**.
+* 🔴 Building backend applications and REST APIs using **NestJS**.
+* ⚡ Developing applications using **TypeScript and JavaScript**.
+* 🔗 Building integrated frontend/backend application workflows.
+* 🏢 Applying enterprise-domain knowledge to software projects.
+* 🤖 Using AI-assisted development workflows for application development.
+
+### 🧪 Quality Engineering
+
+* 🎭 Built scalable Playwright automation frameworks.
+* 🔌 Developed UI and API automation.
+* 🏢 Led QA activities for enterprise CRM and billing systems.
+* 🏥 Delivered automation solutions for healthcare applications.
+* 🤖 Tested AI / LLM-powered applications.
+* 🔄 Integrated automation into Jenkins and Bitbucket pipelines.
+* 📊 Implemented Allure-based reporting.
+* ⚡ Reduced repetitive manual regression effort.
+* 📱 Worked across Web, Android and iOS applications.
+* 👥 Supported UAT and production releases.
 
 ---
 
@@ -470,35 +800,129 @@ Worked on **Real Estate, E-commerce, EMR/EHR and Fintech applications** for US a
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroondhanyal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=haroondhanyal&show_icons=true&theme=tokyonight&hide_border=true"
+alt="Raja Haroon Jamal GitHub Stats"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroondhanyal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=haroondhanyal&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
 </p>
 
 ---
 
-# 💻 Most Used Technologies
+# 💻 Development & Engineering Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=playwright,typescript,javascript,python,java,selenium,cypress,postman,jenkins,azure,git,github,bitbucket,docker,jmeter,appium,jira,figma&perline=9"/>
+<img src="https://skillicons.dev/icons?i=vue,nestjs,nodejs,typescript,javascript,html,css,python,java,playwright,selenium,cypress,postman,docker,jenkins,azure,git,github,bitbucket&perline=10"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Building & Learning
+
+### 💻 Development
+
+* Advanced Vue.js
+* NestJS Backend Architecture
+* Advanced TypeScript
+* Full-Stack Application Development
+* REST API Design
+* Authentication & Authorization
+* Enterprise Application Architecture
+* System Design
+* Database-Driven Applications
+
+### 🧪 Quality Engineering
 
 * Advanced Playwright
-* TypeScript
-* REST Assured
-* AI / LLM Testing
-* Advanced API Automation
-* CI/CD Quality Engineering
+* API Automation
 * Modern Test Architecture
-* AI-assisted Software Testing
+* Performance Engineering
+* CI/CD Quality Engineering
+
+### 🤖 AI Engineering
+
+* AI-Assisted Software Development
+* AI-Assisted Testing
+* LLM Application Testing
+* AI Integration Concepts
+
+---
+
+# 🎯 Current Engineering Focus
+
+```text
+┌──────────────────────────────────────────────┐
+│           FULL-STACK DEVELOPMENT             │
+│                                              │
+│     Vue.js + NestJS + TypeScript + APIs      │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│             QUALITY ENGINEERING              │
+│                                              │
+│ Playwright + API + Mobile + Performance      │
+└──────────────────────┬───────────────────────┘
+                       │
+                       ▼
+┌──────────────────────────────────────────────┐
+│                DEVOPS / CI/CD                │
+│                                              │
+│      Git + Docker + Jenkins + Pipelines      │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+### Build it. Test it. Automate it. Ship it.
+
+My goal is not limited to writing application code or writing automated tests.
+
+I aim to understand the **complete engineering lifecycle**:
+
+```text
+IDEA
+ ↓
+REQUIREMENTS
+ ↓
+PRODUCT DESIGN
+ ↓
+SOFTWARE ARCHITECTURE
+ ↓
+FRONTEND
+ ↓
+BACKEND
+ ↓
+APIs
+ ↓
+DATABASE / DATA
+ ↓
+TESTING
+ ↓
+AUTOMATION
+ ↓
+CI/CD
+ ↓
+UAT
+ ↓
+PRODUCTION
+```
+
+This combination allows me to approach applications from the perspectives of both a **developer and quality engineer**.
 
 ---
 
@@ -523,9 +947,9 @@ Worked on **Real Estate, E-commerce, EMR/EHR and Fintech applications** for US a
 ---
 
 <h3 align="center">
-⭐ Building Quality. Automating Everything. Delivering with Confidence.
+💻 Building Software • 🧪 Automating Quality • 🚀 Delivering Better Products
 </h3>
 
 <p align="center">
-Thanks for visiting my profile! Feel free to connect, collaborate, or explore my QA Automation projects.
+Thanks for visiting my profile! Feel free to explore my software development and QA automation projects.
 </p>
