@@ -8,8 +8,8 @@
   <img
     src="./newgit.png"
     align="center"
-    width="100%"
-    height="550"
+    width="150%"
+    height="700"
     alt="Raja Haroon Jamal - Software Engineer & Senior QA Automation Engineer"
   />
 </p>
