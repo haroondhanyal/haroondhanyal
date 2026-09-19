@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="./newgit.png"
+    src="./githubIMG.png"
     align="center"
     width="100%"
     alt="Raja Haroon Jamal - Software Engineer & Senior QA Automation Engineer"
