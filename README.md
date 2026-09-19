@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm Raja Haroon Jamal</h1>
 
 <h3 align="center">
-Senior QA Automation Engineer | Full-Stack Application Builder | Vue.js | NestJS | TypeScript | Playwright | API Testing | CI/CD
+Senior QA Automation Engineer | Full-Stack Developer | Software Engineering & Quality Automation
 </h3>
 
 <p align="center">
@@ -55,7 +55,7 @@ Building modern web applications, enterprise software, APIs and scalable test au
 
 # 👨‍💻 About Me
 
-I am a **Full-Stack Application Developer and Senior QA Automation Engineer** with hands-on experience across **software development, quality engineering, enterprise applications, APIs, CI/CD and product delivery**.
+I am a **Senior QA Automation Engineer and Full-Stack Application Developer** with hands-on experience across **software development, quality engineering, enterprise applications, APIs, CI/CD and product delivery**.
 
 I build modern **web applications and business software** using:
 
@@ -77,6 +77,18 @@ I enjoy working across the complete software lifecycle:
 
 # 🚀 What I Do
 
+### 🧪 Quality Engineering
+
+* Build scalable automation frameworks.
+* Automate web applications using Playwright.
+* Perform API testing and automation.
+* Implement Page Object Model architecture.
+* Develop data-driven automation frameworks.
+* Automate regression and E2E scenarios.
+* Perform mobile automation.
+* Conduct performance and load testing.
+* Integrate automation into CI/CD pipelines.
+
 ### 💻 Full-Stack Development
 
 * Build modern full-stack web applications.
@@ -90,18 +102,6 @@ I enjoy working across the complete software lifecycle:
 * Implement authentication and authorization workflows.
 * Build dashboards and administration portals.
 * Develop enterprise-style business workflows.
-
-### 🧪 Quality Engineering
-
-* Build scalable automation frameworks.
-* Automate web applications using Playwright.
-* Perform API testing and automation.
-* Implement Page Object Model architecture.
-* Develop data-driven automation frameworks.
-* Automate regression and E2E scenarios.
-* Perform mobile automation.
-* Conduct performance and load testing.
-* Integrate automation into CI/CD pipelines.
 
 ### 🏢 Enterprise Applications
 
