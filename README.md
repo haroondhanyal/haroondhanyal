@@ -19,9 +19,9 @@
 Senior QA Automation Engineer | Full-Stack Developer | Software Engineering & Quality Automation
 </h3>
 
-<p align="center">
-Building modern web applications, enterprise software, APIs and scalable test automation solutions.
-</p>
+<p align="center"> Building scalable applications, robust automation frameworks, and reliable software solutions with a focus on quality, performance, and continuous delivery. </p>
+
+<p align="center"> <strong>Vue.js</strong> • <strong>NestJS</strong> • <strong>TypeScript</strong> • <strong>Playwright</strong> • <strong>API Testing</strong> • <strong>CI/CD</strong> </p>
 
 <p align="center">
 
