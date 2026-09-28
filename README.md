@@ -25,16 +25,20 @@ Senior QA Automation Engineer | Full-Stack Developer | Software Engineering & Qu
 
 <p align="center">
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=haroondhanyal&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <a href="https://github.com/haroondhanyal">
+    <img
+      src="https://hits.sh/github.com/haroondhanyal.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6"
+      alt="Profile Views"
+    />
+  </a>
 
-  <img
-    src="https://img.shields.io/github/followers/haroondhanyal?label=Followers&style=for-the-badge"
-    alt="GitHub Followers"
-  />
+  <a href="https://github.com/haroondhanyal?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/haroondhanyal?label=Followers&style=for-the-badge&logo=github"
+      alt="GitHub Followers"
+    />
+  </a>
+
 </p>
 
 <a href="https://github.com/haroondhanyal?tab=followers">
