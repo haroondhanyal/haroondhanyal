@@ -27,7 +27,7 @@ Senior QA Automation Engineer | Full-Stack Developer | Software Engineering & Qu
 
   <a href="https://github.com/haroondhanyal">
     <img
-      src="https://hits.sh/github.com/haroondhanyal.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6"
+      src="https://img.shields.io/badge/👁%20Profile%20Views-1500%2B-blue?style=for-the-badge"
       alt="Profile Views"
     />
   </a>
@@ -38,6 +38,8 @@ Senior QA Automation Engineer | Full-Stack Developer | Software Engineering & Qu
       alt="GitHub Followers"
     />
   </a>
+
+</p>
 
 
 <p align="center">
